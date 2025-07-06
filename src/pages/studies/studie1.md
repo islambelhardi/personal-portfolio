@@ -1,15 +1,15 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor’s in Computer Science
+location: University of Constantine 2, Constantine Algeria
+url: http://univ-constantine2.dz/?lang=ar
+institute: University of Constantine 2
+date: 2019-2022
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Algorithms, Data structure",
+    "Algebra",
+    "Network Security",
+    "DataBase",
+    "Software Engineering",
   ]
 ---

@@ -1,14 +1,13 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Mobile Developer
+date: 2024 - Present
+url: https://digitupcompany.com/agency
+location: Kouba, Algiers Algeria
+org: Digitup Company
+tags: ["Software Development", "Flutter", "Firebase", "Api Integration" ,"Fastlane","CI/CD"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Developed and deployed full-featured cross-platform apps using Flutter for real estate, travel, e-commerce, and logistics sectors.
+- Built scalable UI architectures with GetX, BLoC, and go_router, supporting complex flows
+- Integrated Firebase, WebSockets, and Dio for real-time features, authentication, and API communication.
+- Implemented production-ready CI/CD pipelines using Codemagic, supporting separate dev/prod configurations.
